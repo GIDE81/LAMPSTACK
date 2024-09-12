@@ -1,2 +1,2 @@
-Linux + Apache + MySql + PhP
+Linux + Apache + MySql + PhP;
 First Project
